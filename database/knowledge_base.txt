@@ -1,0 +1,109 @@
+Movie Title: The Shawshank Redemption
+Release Year: 1994
+Genre: Drama, Crime
+Synopsis: A banker named Andy is wrongly imprisoned, devises a 20-year escape plan from Shawshank Prison through wisdom and perseverance, revealing themes of hope and institutional corruption.
+
+Movie Title: Forrest Gump
+Release Year: 1994
+Genre: Drama, Romance
+Synopsis: A man with an IQ of 75 inadvertently participates in major historical American events through running and sincerity, embodying the philosophy that "simple wisdom brings unexpected fortune".
+
+Movie Title: Titanic
+Release Year: 1997
+Genre: Romance, Disaster
+Synopsis: A love story between wealthy Rose and poor artist Jack aboard a luxury liner, transcending social class during the ship's tragic sinking.
+
+Movie Title: Inception
+Release Year: 2010
+Genre: Sci-Fi, Action
+Synopsis: A team implants ideas in targets' dreams while navigating reality and multilayered dreamscapes, culminating in a spinning top that sparks philosophical debate.
+
+Movie Title: Interstellar
+Release Year: 2014
+Genre: Sci-Fi, Adventure
+Synopsis: Astronauts traverse a wormhole to find a new habitable planet, exploring time dilation, higher dimensions, and humanity's survival amidst familial bonds.
+
+Movie Title: Parasite
+Release Year: 2019
+Genre: Thriller, Dark Comedy
+Synopsis: A poor family infiltrates a wealthy household through deception, exposing class conflict through violent twists in this absurdist social allegory.
+
+Movie Title: Joker
+Release Year: 2019
+Genre: Psychological Thriller, Crime
+Synopsis: Failed comedian Arthur transforms into Gotham's criminal icon amid societal neglect, critiquing oppression of marginalized individuals.
+
+Movie Title: Avengers: Endgame
+Release Year: 2019
+Genre: Action, Superhero
+Synopsis: Superheroes reverse Thanos' universal genocide through time travel, culminating in sacrifices that conclude Marvel's decade-long saga.
+
+Movie Title: Life Is Beautiful
+Release Year: 1997
+Genre: Drama, Tragicomedy
+Synopsis: A Jewish father disguises Nazi concentration camp horrors as a game to protect his son's innocence and hope.
+
+Movie Title: Spirited Away
+Release Year: 2001
+Genre: Fantasy, Animation
+Synopsis: A girl named Chihiro navigates a spirit world through labor and kindness in Hayao Miyazaki's fantasy about growth and resilience.
+
+Name: Temperature Sensor
+Type: Environmental Sensor
+Working Principle: Detects ambient temperature via thermoelectric effects (thermocouples) or resistance changes (thermistors).
+Applications: Industrial equipment monitoring, weather stations, household appliances (AC/refrigerators).
+Features: High precision, fast response, wide temperature range adaptation.
+
+Name: Humidity Sensor
+Type: Environmental Sensor
+Working Principle: Measures water vapor content through capacitance/resistance variations.
+Applications: Agricultural greenhouses, weather monitoring, smart home humidifiers.
+Features: Pollution resistance, long-term stability.
+
+Name: Pressure Sensor
+Type: Mechanical Sensor
+Working Principle: Converts pressure to electrical signals via piezoresistive/piezoelectric effects.
+Applications: Automotive tire monitoring, industrial pipelines, medical devices (blood pressure meters).
+Features: High-pressure tolerance, sensitivity.
+
+Name: Photoelectric Sensor
+Type: Optical Sensor
+Working Principle: Detects light intensity/object presence using photosensitive elements (photoresistors/photodiodes).
+Applications: Automatic doors, assembly line counting, security systems.
+Features: Non-contact detection, EMI resistance.
+
+Name: Accelerometer
+Type: Motion Sensor
+Working Principle: Measures acceleration via piezoelectric crystals or MEMS technology.
+Applications: Smartphone screen rotation, drone stabilization, vehicle crash detection.
+Features: High dynamic range, low power consumption.
+
+Name: Infrared Sensor
+Type: Optical Sensor
+Working Principle: Detects objects/temperature via specific infrared wavelengths (pyroelectric sensors).
+Applications: Body temperature measurement, night vision devices, automatic faucets.
+Features: Strong penetration, dark environment compatibility.
+
+Name: Gas Sensor
+Type: Chemical Sensor
+Working Principle: Generates electrical signals through semiconductor/electrochemical reactions with target gases.
+Applications: Air quality monitoring (CO₂/VOC), gas leak alarms, industrial safety.
+Features: High selectivity, requires periodic calibration.
+
+Name: Ultrasonic Sensor
+Type: Acoustic Sensor
+Working Principle: Calculates distance via ultrasound emission/reflection time differences.
+Applications: Autonomous vehicle obstacle avoidance, liquid level detection, medical imaging (ultrasound).
+Features: Light interference resistance, mid-short range measurement.
+
+Name: pH Sensor
+Type: Chemical Sensor
+Working Principle: Measures hydrogen ion concentration via glass electrode potential differences.
+Applications: Water quality monitoring, chemical production, lab analysis.
+Features: Requires maintenance, high-precision acidity/alkalinity measurement.
+
+Name: Gyroscope Sensor
+Type: Motion Sensor
+Working Principle: Detects angular velocity via angular momentum conservation or MEMS technology.
+Applications: Drone stabilization, mobile navigation, VR devices.
+Features: High-precision orientation sensing, vibration resistance.
