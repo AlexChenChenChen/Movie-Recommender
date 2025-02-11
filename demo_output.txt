@@ -1,1 +1,71 @@
-Movie-Recommender
+/home/cxr-ubuntu/anaconda3/envs/rag/bin/python /home/cxr-ubuntu/Documents/HWU/Movie-Recommender/Movie_RAG.py 
+/home/cxr-ubuntu/Documents/HWU/Movie-Recommender/Movie_RAG.py:48: LangChainDeprecationWarning: The method `BaseRetriever.get_relevant_documents` was deprecated in langchain-core 0.1.46 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  docs = self.retriever.get_relevant_documents(task)
+You are a movie recommendation expert. Answer based on the following context: 
+(Note: Context may contain irrelevant content - identify movie-related information yourself)
+
+
+Movie Title: Inception
+Release Year: 2010
+Genre: Sci-Fi, Action
+Synopsis: A team implants ideas in targets' dreams while navigating reality and multilayered dreamscapes, culminating in a spinning top that sparks philosophical debate.
+
+--- separator ---
+
+Movie Title: Life Is Beautiful
+Release Year: 1997
+Genre: Drama, Tragicomedy
+Synopsis: A Jewish father disguises Nazi concentration camp horrors as a game to protect his son's innocence and hope.
+
+--- separator ---
+
+Movie Title: Titanic
+Release Year: 1997
+Genre: Romance, Disaster
+Synopsis: A love story between wealthy Rose and poor artist Jack aboard a luxury liner, transcending social class during the ship's tragic sinking.
+
+--- separator ---
+
+Movie Title: Forrest Gump
+Release Year: 1994
+Genre: Drama, Romance
+Synopsis: A man with an IQ of 75 inadvertently participates in major historical American events through running and sincerity, embodying the philosophy that "simple wisdom brings unexpected fortune".
+
+--- separator ---
+
+Movie Title: The Shawshank Redemption
+Release Year: 1994
+Genre: Drama, Crime
+Synopsis: A banker named Andy is wrongly imprisoned, devises a 20-year escape plan from Shawshank Prison through wisdom and perseverance, revealing themes of hope and institutional corruption.
+
+Question: 
+    Could you recommend two movies for me?"
+    
+Requirements:
+1. Select only movie-related entries
+2. Recommend strictly based on the information above
+3. Explain reasons for each recommendation
+
+
+=== Generation Answer ===
+<think>
+Okay, I need to help this user by recommending two movies based on their preferences. First, let's figure out what they like.
+
+Looking at the context provided, there are five movies listed with their details. The user didn't specify any particular genre or aspect, so I'll consider popularity and unique aspects.
+
+Titanic is a classic love story about class differences, which is really touching. Plus, it's a romantic drama that many people know and enjoy. It's a safe choice because of its widespread appeal.
+
+For the second recommendation, Forrest Gump seems fitting. He combines romance with his running and sincerity to participate in history. His journey from being overlooked to making history through simple acts shows themes of perseverance and hope. Plus, the movie is well-liked for its emotional depth and heartwarming moments.
+</think>
+
+Here are two movie recommendations based on the information provided:
+
+1. **Titanic (1997)**  
+   *Reason:* This romantic drama is a timeless favorite that beautifully intertwines romance, social class, and disaster. It tells an inspiring love story between Rose and Jack, bringing out their characters' strengths and emotions in a way that resonates with audiences.
+
+2. **Forrest Gump (1994)**  
+   *Reason:* This heartfelt drama explores themes of perseverance, hope, and the unexpected consequences of simple acts. Gump's journey from being overlooked to making history through running and sincerity is emotionally compelling and heartwarming.
+
+Both movies offer unique storytelling and emotional depth that might appeal to you.
+
+Process finished with exit code 0
